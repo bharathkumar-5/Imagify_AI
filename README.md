@@ -20,6 +20,7 @@ Imagify AI is an advanced AI-powered image processing tool that leverages cuttin
 **Frontend:**
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) React.js
 - ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) Tailwind CSS
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) Vite
 
 **Backend:**
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) Node.js
@@ -34,25 +35,23 @@ Imagify AI is an advanced AI-powered image processing tool that leverages cuttin
 ## 📦 Third-Party Libraries Used
 
 **Frontend:**
-- Redux - State management
-- Axios - HTTP requests
-- Framer Motion - Animations
-- React Router - Navigation
-- React Dropzone - File upload
+- ![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white) - HTTP requests
+- ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) - Animations
+- ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white) - Navigation
+- ![React Toastify](https://img.shields.io/badge/React_Toastify-FFAA00?logo=react&logoColor=white) - Notifications
+- ESLint - Code Linting
+- Tailwind CSS - Utility-first CSS framework
+- Vite - Fast build tool
 
 **Backend:**
-- Mongoose - MongoDB ODM
-- CORS - Cross-Origin Resource Sharing
-- Bcrypt - Password hashing
-- JSON Web Token (JWT) - Authentication
-- Multer - File handling
-
-**AI & ML:**
-- NumPy - Numerical computing
-- Pandas - Data manipulation
-- Scikit-learn - Machine learning models
-- Matplotlib - Data visualization
-- Flask - API for AI model integration
+- ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) - Web framework
+- ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongodb&logoColor=white) - MongoDB ODM
+- ![CORS](https://img.shields.io/badge/CORS-FFA500?logo=javascript&logoColor=white) - Cross-Origin Resource Sharing
+- ![Bcrypt](https://img.shields.io/badge/Bcrypt-0055AA?logo=security&logoColor=white) - Password hashing
+- ![JSON Web Token](https://img.shields.io/badge/JWT-0000FF?logo=json-web-tokens&logoColor=white) - Authentication
+- ![Dotenv](https://img.shields.io/badge/Dotenv-4CAF50?logo=.env&logoColor=white) - Environment variables management
+- ![Nodemon](https://img.shields.io/badge/Nodemon-76C043?logo=nodemon&logoColor=white) - Auto-restart server on changes
+- ![Razorpay](https://img.shields.io/badge/Razorpay-0085FF?logo=razorpay&logoColor=white) - Payment gateway integration
 
 ## 🚀 Installation & Setup
 
