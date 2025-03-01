@@ -31,6 +31,29 @@ Imagify AI is an advanced AI-powered image processing tool that leverages cuttin
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) TensorFlow
 - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) OpenCV
 
+## 📦 Third-Party Libraries Used
+
+**Frontend:**
+- Redux - State management
+- Axios - HTTP requests
+- Framer Motion - Animations
+- React Router - Navigation
+- React Dropzone - File upload
+
+**Backend:**
+- Mongoose - MongoDB ODM
+- CORS - Cross-Origin Resource Sharing
+- Bcrypt - Password hashing
+- JSON Web Token (JWT) - Authentication
+- Multer - File handling
+
+**AI & ML:**
+- NumPy - Numerical computing
+- Pandas - Data manipulation
+- Scikit-learn - Machine learning models
+- Matplotlib - Data visualization
+- Flask - API for AI model integration
+
 ## 🚀 Installation & Setup
 
 ### Prerequisites
