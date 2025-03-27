@@ -52,7 +52,7 @@ Imagify AI is an advanced AI-powered image processing tool that leverages cuttin
 - ![Dotenv](https://img.shields.io/badge/Dotenv-4CAF50?logo=.env&logoColor=white) - Environment variables management
 - ![Nodemon](https://img.shields.io/badge/Nodemon-76C043?logo=nodemon&logoColor=white) - Auto-restart server on changes
 - ![Razorpay](https://img.shields.io/badge/Razorpay-0085FF?logo=razorpay&logoColor=white) - Payment gateway integration
-
+- ![Clipdrop](https://img.shields.io/badge/Clipdrop_API-4CAF50?logo=security&logoColor=white) - Generating image related to the prompt 
 ## 🚀 Installation & Setup
 
 ### Prerequisites
